@@ -4,3 +4,4 @@
 #### hello world 4
 ##### hello world 5
 ###### hello world 6
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
